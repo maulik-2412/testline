@@ -25,6 +25,10 @@ and run
 ```bash
 node app.js
 ```
-
 You are good to go now.
+
+OR
+
+Go to 
+[Live](https://testline-nine.vercel.app/)
 
